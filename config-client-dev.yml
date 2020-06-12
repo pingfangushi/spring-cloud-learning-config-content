@@ -2,12 +2,6 @@ spring:
   application:
     # 应用名称
     name: 'config-client-dev'
-management:
-  endpoints:
-    web:
-      exposure:
-        # dev环境启用端点
-        include: '*'
 com:
   pingfangushi:
     learning:

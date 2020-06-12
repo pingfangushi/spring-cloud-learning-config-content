@@ -1,0 +1,6 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        # dev环境启用端点
+        include: '*'
