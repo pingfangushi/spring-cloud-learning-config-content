@@ -1,4 +1,4 @@
 spring:
   application:
     # 应用名称
-    name: 'config-server-client-prod'
+    name: 'config-client-prod'

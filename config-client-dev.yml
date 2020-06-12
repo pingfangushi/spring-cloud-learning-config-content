@@ -1,4 +1,10 @@
 spring:
   application:
     # 应用名称
-    name: 'config-server-client-dev'
+    name: 'config-client-dev'
+management:
+  endpoints:
+    web:
+      exposure:
+        # dev环境启用端点
+        include: '*'

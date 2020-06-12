@@ -1,3 +1,4 @@
-server:
-  # 端口号
-  port: 8080
+spring:
+  profiles:
+    #默认dev环境
+    active: dev
