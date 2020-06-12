@@ -2,3 +2,9 @@ spring:
   application:
     # 应用名称
     name: 'config-client-prod'
+com:
+  pingfangushi:
+    learning:
+      user:
+        username: 'admin'
+        password: '$2a$10$oQT4ksuJw9x7WJJJf3O6bO4WUcvf85qIuOxkJj3bK1jDJrdVZscla'

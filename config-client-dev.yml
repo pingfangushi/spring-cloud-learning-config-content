@@ -8,3 +8,9 @@ management:
       exposure:
         # dev环境启用端点
         include: '*'
+com:
+  pingfangushi:
+    learning:
+      user:
+        username: 'test'
+        password: '$2a$10$.oTtme6dDwynGav3m4sqIeVm3QsqC6uiGzxmc.gZDWJIBd4Jiq9Si'
