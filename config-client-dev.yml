@@ -1,7 +1,3 @@
-spring:
-  application:
-    # 应用名称
-    name: 'config-client-dev'
 com:
   pingfangushi:
     learning:

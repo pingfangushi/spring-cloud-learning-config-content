@@ -1,4 +1,4 @@
 spring:
-  profiles:
-    #默认dev环境
-    active: dev
+  application:
+    # 应用名称
+    name: 'config-client'

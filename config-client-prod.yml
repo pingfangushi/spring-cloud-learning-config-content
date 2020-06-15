@@ -1,7 +1,3 @@
-spring:
-  application:
-    # 应用名称
-    name: 'config-client-prod'
 com:
   pingfangushi:
     learning:
